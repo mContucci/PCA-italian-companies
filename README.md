@@ -40,6 +40,6 @@ The results of the Principal Component Analysis will be thoroughly documented in
 For further information or questions, please contact Marco Contucci:
 
 - Name: Marco Contucci
-- Email: [insert_your_email@example.com]
+- Email: [marco.contucci@studio.unibo.it]
 
 Thank you for exploring our project on Principal Component Analysis in the software production sector!
