@@ -20,7 +20,7 @@ This repository contains data extracted from the AIDA database used for Principa
 
 - `Code/Data/`: Contains data obtained from the AIDA database.
 - `Code/`: Includes R scripts and Excel sheets used for Principal Component Analysis and other tests.
-- `Report`: Contains the analysis results, such as graphs and tables.
+- `Report.pdf`: Contains the analysis results and procedures.
 - `README.md`: This file providing an overview of the project.
 
 ## Instructions for Execution
