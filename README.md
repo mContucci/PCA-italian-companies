@@ -23,14 +23,6 @@ This repository contains data extracted from the AIDA database used for Principa
 - `Report.pdf`: Contains the analysis results and procedures.
 - `README.md`: This file providing an overview of the project.
 
-## Instructions for Execution
-
-To reproduce or extend the analysis, follow these steps:
-
-1. Download the data from the AIDA database and place it in the `data/` folder.
-2. Execute the R scripts in the `scripts/` folder in the appropriate order.
-3. The analysis results will be generated in the `results/` folder.
-
 ## Analysis Results
 
 The results of the Principal Component Analysis will be thoroughly documented in the `results/` folder. These results include graphs and tables showing the data structure in the software production sector and the major factors influencing it.
